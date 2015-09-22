@@ -1,0 +1,13 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.0.1)
+  - jetfire (0.1.4)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0 (~> 2.0.1)
+  - jetfire
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: eeb47e64b7af3e09a50e1ce5dfee9c8c957490c6
+  jetfire: 6c6715c91d8b59d2fdb051e5f76ae2fb539d0362
+
+COCOAPODS: 0.38.2
